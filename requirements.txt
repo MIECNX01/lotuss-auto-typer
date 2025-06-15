@@ -1,0 +1,6 @@
+pyautogui
+pandas
+openpyxl
+tk
+keyboard
+schedule
