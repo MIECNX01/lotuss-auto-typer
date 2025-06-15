@@ -21,3 +21,5 @@
 ```bash
 git clone https://github.com/MIECNX01/lotuss-auto-typer.git
 cd lotuss-auto-typer
+
+https://git-scm.com/downloads/win
