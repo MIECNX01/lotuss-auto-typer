@@ -22,4 +22,5 @@
 git clone https://github.com/MIECNX01/lotuss-auto-typer.git
 cd lotuss-auto-typer
 
+```bash
 https://git-scm.com/downloads/win
