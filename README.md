@@ -22,6 +22,8 @@
 git clone https://github.com/MIECNX01/lotuss-auto-typer.git
 cd lotuss-auto-typer
 
-### 2. โหลด GitHub
-```bash
+---
+
+## 2. โหลด GitHub
+
 https://git-scm.com/downloads/win
