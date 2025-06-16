@@ -24,5 +24,5 @@ cd lotuss-auto-typer
 
 https://git-scm.com/downloads/win
 
-## 3.โหลด Pythin
+## 3.โหลด Python
 https://www.python.org/downloads/windows/
