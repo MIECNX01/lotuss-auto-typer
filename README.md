@@ -23,7 +23,6 @@ python pic2textv3.py
 ---
 
 ## 2. โหลด GitHub
-
 https://git-scm.com/downloads/win
 
 ## 3.โหลด Python for windows
