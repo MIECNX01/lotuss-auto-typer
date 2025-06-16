@@ -17,6 +17,8 @@
 ```bash
 git clone https://github.com/MIECNX01/lotuss-auto-typer.git
 cd lotuss-auto-typer
+python main.py
+python pic2textv3.py
 
 ---
 
