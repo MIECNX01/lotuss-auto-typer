@@ -28,3 +28,8 @@ https://git-scm.com/downloads/win
 
 ## 3.โหลด Python for windows
 https://www.python.org/downloads/windows/
+
+## 4.โหลด tesseract-ocr
+https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.2.0.20220712.exe
+
+
