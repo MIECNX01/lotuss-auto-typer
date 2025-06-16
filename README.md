@@ -26,5 +26,5 @@ python pic2textv3.py
 
 https://git-scm.com/downloads/win
 
-## 3.โหลด Python
+## 3.โหลด Python for windows
 https://www.python.org/downloads/windows/
