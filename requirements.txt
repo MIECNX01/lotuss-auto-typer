@@ -1,6 +1,7 @@
-pyautogui
-pandas
+pytesseract
+Pillow
 openpyxl
-tk
-keyboard
-schedule
+pyautogui
+pdfplumber
+pandas
+joblib
